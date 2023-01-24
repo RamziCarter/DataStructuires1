@@ -77,5 +77,19 @@ public class CoffeeSlip
 
 * Readability
   * How easy is the program to understand?
-  * 
+    * Choose meaningful variable names
+    * skip lines in code
+    * comment on the program
+    * Indenting blocks of code
+    * use named constants rayther than hard coded numbers
+
+
+* More Programming Ideas
+  * Abstraction 
+    * Focusing on more important details while ignoring unimportant details
+  * Pre and post conditions
+    * Used to verify that programs are correct
+    * Java allows for assertions
+  * Garbage collection
+  * Encapsulation
 
