@@ -8,8 +8,9 @@
    * Making decisions
    * Looping
    * Inptut (Keyboard)
-
-
-0
+   
+* Program Design is Important 
+   * Sample Problem
+   * 
 
 
