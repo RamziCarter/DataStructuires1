@@ -92,4 +92,39 @@ public class CoffeeSlip
     * Java allows for assertions
   * Garbage collection
   * Encapsulation
+    * Information hiding (public vs private)
+    * Interface vs implementation
+  * Overloading
+  * Overriding
 
+* Data Structurs Vs Abstract Data Types
+  * Data Structure - a physical thing; you can see it inside the computer
+  * ADT - just an idea 
+
+---
+
+#### Arrays
+
+> an array is a gorup of data items that are all the same type
+
+* Parallel Arrays
+
+```java
+
+String [] itemName = new [50]
+String [] itemUPC = new [50]
+
+```
+* The danger with parallel arrays is that they are only connected in the programmers mind
+
+---
+
+* Interfaces
+  * a shell that contains the public methods
+  * It contains only method headers, no actual code
+``` 
+Javadoc - a method of documentation
+- all javadoc items are comments
+- They start with /** and end with */
+- It creates an HTML document containing 
+  * a summary of the methods
