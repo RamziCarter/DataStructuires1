@@ -9,7 +9,10 @@
    * Looping
    * Inptut (Keyboard)
    
-* Program Design is Important 
+* Program Design is Important
+  * What must the program do?
+  * What information do we need to know in order to print a bill?
+
 
 ![Sample Problem](https://raw.githubusercontent.com/RamziCarter/DataStructures1/main/Screenshot%202023-01-23%20163501.png)
 
@@ -72,4 +75,7 @@ public class CoffeeSlip
 
 ```
 
+* Readability
+  * How easy is the program to understand?
+  * 
 
