@@ -10,4 +10,5 @@ Array List
 * uses a wrapper class for the TYPE of thing you want to input into the list
 * ArrayList <String> myList = new ArrayList <String>();
   * myList.add("California");
-  * 
+  * myList.add(2, "Florida");
+    * add at specific location (Insert)
