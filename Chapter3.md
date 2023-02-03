@@ -15,5 +15,5 @@
 * to print items in a linked list you need to traverse the list
   * different from arrays where you would create a for loop
 
-
+* insertions and deletions are different from arrays as well
 ```
