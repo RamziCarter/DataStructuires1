@@ -99,6 +99,7 @@ public class Car implements attributes{
 
 
 ```java
+
 import java.util.*;
 
 
@@ -111,18 +112,23 @@ public class carList extends Car   {
 	}
 
 
-	public static ArrayList<Car> randomizer(ArrayList<Car> cars, int x){
-		
-		for(int i = 0; i< cars.size(); i++)
+	public static ArrayList<Car> randomizer(ArrayList<Car> cars, int x)
 		{
-			if (cars.indexOf(i) % x ==0) 
-				{
-					cars.remove(cars.indexOf(i));
-				}
+		
+			ArrayList<Car> result = new ArrayList<Car>();
 			
+			for(int i = 0; i< cars.size(); i++)
+			{
+				if ((i+1) % x != 0) 
+					{
+						result.add(cars.get(i));
+					}
+				
+			}
+			
+				return result;
+				
 		}
-		return cars;
-	}
 	
 	
 	public static void main(String [] args) {
@@ -130,7 +136,7 @@ public class carList extends Car   {
 		// random objext
 		Random rand = new Random ();
 		// generate random number 0-9 
-		int x = rand.nextInt(10);
+		int x = rand.nextInt(9) + 1;
 				
 		ArrayList <Car> cars = new ArrayList <Car>();
 		
@@ -168,9 +174,18 @@ public class carList extends Car   {
 		cars.add(Car10);
 		
 		randomizer(cars, x);
-		System.out.print(cars.toString());
+	
+		ArrayList<Car> resultList = randomizer(cars, x);
+		
+		for(Car car : resultList)
+		{
+			System.out.println(car);
+		}
+		
 
 	}
 }
+
+
 
 ```
