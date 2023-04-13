@@ -144,7 +144,8 @@ Four Pillars of Object Oriented Programming
 
 
 > Polymorphism
-
+* used by method overloading an overriding
+* An object knows how to act when called **In simple terms**
 
 > Inheritance
 
