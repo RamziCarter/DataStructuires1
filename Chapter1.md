@@ -96,7 +96,39 @@ public class CoffeeSlip
     * Interface vs implementation
   * Overloading
     * Two methods that have the same name but DIFFERENT SIGNIATURE
+    
+``` java
+public class MathUtils {
+    public int sum(int x, int y) {
+        return x + y;
+    }
+
+    public double sum(double x, double y) {
+        return x + y;
+    }
+}
+
+```
+
   * Overriding
+    * Allows subclasses to customize the behavior of inherited methods
+
+```java
+
+public class Vehicle {
+    public void drive() {
+        System.out.println("Vehicle is driving");
+    }
+}
+
+public class Car extends Vehicle {
+    @Override
+    public void drive() {
+        System.out.println("Car is driving");
+    }
+}
+
+```
 
 * Data Structurs Vs Abstract Data Types
   * Data Structure - a physical thing; you can see it inside the computer
