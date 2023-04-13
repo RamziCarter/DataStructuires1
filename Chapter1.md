@@ -130,6 +130,25 @@ public class Car extends Vehicle {
 
 ```
 
+
+
+---
+Four Pillars of Object Oriented Programming
+
+
+> Encapsulation
+* information hiding
+  * private vs public specifiers
+
+
+> Polymorphism
+
+
+> Inheritance
+
+
+> Abstraction
+---
 * Data Structurs Vs Abstract Data Types
   * Data Structure - a physical thing; you can see it inside the computer
   * ADT - just an idea 
