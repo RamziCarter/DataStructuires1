@@ -112,6 +112,7 @@ public class MathUtils {
 
   * Overriding
     * Allows subclasses to customize the behavior of inherited methods
+    * if a child class has a method with the same name as the parent class then the child class can override to make the method act differently
 
 ```java
 
@@ -139,6 +140,7 @@ Four Pillars of Object Oriented Programming
 > Encapsulation
 * information hiding
   * private vs public specifiers
+* Interface vs Implementation
 
 
 > Polymorphism
