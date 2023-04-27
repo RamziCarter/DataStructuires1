@@ -37,9 +37,11 @@ Subtree - Pick a node, everything underneath it is a subtree
 > Part 2
 
 
-## Tree Traversals
+
 
 ---
+## Tree Traversals
+
 * Inorder -  the node itself is between the two children (Left child, Node, Right Child)
 * PreOrder - visit thew node itself then visit the left child then right child
 * PostOrder - Left Child, Right Child, Node
