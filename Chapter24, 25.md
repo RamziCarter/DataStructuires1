@@ -44,6 +44,17 @@ Tree Traversals
 * PreOrder - visit thew node itself then visit the left child then right child
 * PostOrder - Left Child, Right Child, Node
 * DepthFirst
-* BreadthFirst 
+* BreadthFirst - Visit each level from left to right over the entire tree
+* 
 
 ---
+
+
+
+```java
+// Tree Interface
+// what is missing from the interface?
+
+
+
+```
