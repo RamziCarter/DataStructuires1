@@ -25,4 +25,6 @@ Binary Tree - every node has no more than two children
 Subtree - Pick a node, everything underneath it is a subtree
 
 **Length of a path** - number of edges in a path
+
+
 **Height of the tree** - number of nodes in the longest path
