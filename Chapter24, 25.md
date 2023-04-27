@@ -60,3 +60,12 @@ Subtree - Pick a node, everything underneath it is a subtree
 
 
 ```
+
+> Binary Search Tree
+
+* for a binary tree to be searchable the data in every left descendant of the node must be less than the data in the node 
+
+**Complete and Full Trees**
+* a full binary tree is a binary tree where there are 2^(n-1) nodes
+* every node has two children or no children making it a leaf
+
