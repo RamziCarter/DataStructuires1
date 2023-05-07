@@ -19,7 +19,7 @@
 
 > Common practice to use (+) for public items and (-) for private items
 
-![]()
+![UML Visual](https://raw.githubusercontent.com/RamziCarter/DataStructures1/main/Screen%20Shot%202023-05-07%20at%202.32.01%20PM.png)
 ---
 
 
