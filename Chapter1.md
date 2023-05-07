@@ -193,9 +193,10 @@ Javadoc - a method of documentation
 - They start with /** and end with */
 - It creates an HTML document containing 
   * a summary of the methods
-  
-  ![JavaDoc Example]()
-  ```
+```
+
+  ![JavaDoc Example](https://raw.githubusercontent.com/RamziCarter/DataStructures1/main/Screen%20Shot%202023-05-07%20at%202.23.56%20PM.png)
+ 
   
   
   
