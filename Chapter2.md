@@ -1,5 +1,27 @@
 ## Chapter 2
 
+> UML- Unitfied Modeling Language
+* a way to pictorally describe a class
+
+
+
+**Part 1**
+* name
+
+
+**Part 2**
+* attributes
+
+
+
+**Part 3**
+* methods
+
+> Common practice to use (+) for public items and (-) for private items
+
+![]()
+---
+
 
 Array List
 > you can add / remove items onto the data structure
