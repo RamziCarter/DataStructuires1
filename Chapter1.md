@@ -174,6 +174,15 @@ String [] itemUPC = new [50]
 * The danger with parallel arrays is that they are only connected in the programmers mind
 
 ---
+#### Common Operations of ADT
+* add / remove items
+* check if full / empty
+* count number of items
+* check if a specific item is in the adt
+* number of items
+*number of one specific item
+
+---
 
 * Interfaces
   * a shell that contains the public methods
@@ -185,6 +194,7 @@ Javadoc - a method of documentation
 - It creates an HTML document containing 
   * a summary of the methods
   
+  ![JavaDoc Example]()
   ```
   
   
