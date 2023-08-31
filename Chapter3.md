@@ -17,3 +17,4 @@
 
 * insertions and deletions are different from arrays as well
 ```
+!()[] 
