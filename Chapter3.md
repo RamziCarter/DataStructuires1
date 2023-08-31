@@ -17,4 +17,7 @@
 
 * insertions and deletions are different from arrays as well
 ```
-!(LL)[LinkedListIllustaration.png] 
+
+
+
+!(LL)[https://github.com/RamziCarter/DataStructures1/blob/61c685378adee538a59a3126ee134924fdaf4d63/LinkedListIllustaration.png] 
