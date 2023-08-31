@@ -90,5 +90,22 @@ Array List
   * myList.add(2, "Florida");
     * add at specific location (Insert)
 
+
+```   
+- The idea of a ring for the homework 2
+Plan and design advance, getCurrent, remove and add
+
+advance
+- moves pointer to the next location
+getCurrent
+- whever the pointer is at, return the data at the location
+add
+- wherever the pointer is at, put something there or replace what is there
+remove
+- wherever the pointer is pointing, remove that data
+
+
+write a header for each method and javaDoc to describe each method 
+```
  
  
