@@ -20,4 +20,7 @@
 
 
 
-!()[https://github.com/RamziCarter/DataStructures1/blob/61c685378adee538a59a3126ee134924fdaf4d63/LinkedListIllustaration.png] 
+!(}[https://github.com/RamziCarter/DataStructures1/blob/61c685378adee538a59a3126ee134924fdaf4d63/LinkedListIllustaration.png] 
+
+
+
