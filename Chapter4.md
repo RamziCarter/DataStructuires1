@@ -3,7 +3,7 @@
 ## efficiency of algorithms
 
 * The speed of an algforithm
-   * Objective
+   * Objective 
       * Sort data in an array
       * which sorting algorithm do you choose?
       * You want the fastest algorithm?
