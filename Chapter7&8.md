@@ -80,3 +80,6 @@ Back to Priority Queues
 *  This is difficult
 *  as we move along the array, adding and removing, we can move to the end of the array very fast
 *  BUT THERE WILL BE LOTS OF UNUSED SPACE AT THE FRONT
+
+
+circular queue's and circular linked lists, doubly linked lists
