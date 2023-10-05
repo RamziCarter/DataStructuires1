@@ -35,3 +35,47 @@ public void moveDisks(int n, int startPole, int endPole, int sparePole)
   
 }
 ```
+
+
+
+---
+## Chapter 14
+
+Recurrence relations
+
+> Deriving a recurrence relation from a list
+
+```Java
+public void countDown(int n)
+{
+  System.out.println(n);
+  if (n > 1)
+  {
+    countDown(n - 1);
+  }
+}
+```
+
+t(n) = time required for n
+t(1) = 1 due to the if 
+t(n) = 1 + t(n - 1)
+
+
+> Solving the recurrence relation
+We start by listing the first four times
+t(1) = 1
+t(2) = 1 + t(2 - 1) = 1 + 1 = 2
+t(3) = 1 + t(3 - 1) = 1 + t(2) = 3 
+t(4) = 1 + t(4 - 1) = 1 + t(3) = 4
+
+t(n) = n ----> closed form 
+
+__verifying the pattern:__
+* you know that t(1) = 1
+* t(n) = 1 + (n - 1)
+* Need to show t(n) = n for every choice of n
+* assume t(n) = n
+  * we have to prove t(n + 1) = n + 1
+  * t(n + 1) = 1 + t(n)
+  * = 1 + n
+    * done 
