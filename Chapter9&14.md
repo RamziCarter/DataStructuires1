@@ -79,3 +79,7 @@ __verifying the pattern:__
   * t(n + 1) = 1 + t(n)
   * = 1 + n
     * done 
+Another example of the recurrence relation
+* a truly sneak y way to evaluate x^n is by recursion
+* the hardware does something similar to this for division
+* If n is an even number, then x^n = 
