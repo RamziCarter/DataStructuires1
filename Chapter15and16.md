@@ -7,12 +7,13 @@
 > Ordering Items
 
 > Sample Data for Sort
-* For all sorts we will use an integer array containing 
-   * 10, 7, 11, 4, 8, 3, 9 , 6, 1, 2
-
+- For all sorts we will use an integer array containing 
+   - 10, 7, 11, 4, 8, 3, 9 , 6, 1, 2
+![]()
+)
+---
 
 Selection Sort
----
 ```
 
 
