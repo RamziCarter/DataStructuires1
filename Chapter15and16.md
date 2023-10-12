@@ -11,7 +11,7 @@
    - 10, 7, 11, 4, 8, 3, 9 , 6, 1, 2
 
   
-![Data for sorting algs](Sample Data.png)
+![Data for sorting algs][]
 
 ---
 
