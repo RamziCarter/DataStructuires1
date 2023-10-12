@@ -11,7 +11,7 @@
    - 10, 7, 11, 4, 8, 3, 9 , 6, 1, 2
 
   
-![Data for sorting algs][]
+![Data for sorting algs](https://github.com/RamziCarter/DataStructures1/blob/eef516fff8292c9efb24a77d6bceb79e7b532dad/Sample%20Data.png)
 
 ---
 
