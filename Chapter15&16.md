@@ -87,3 +87,18 @@ Bubble Sort
 7, 4, 8, 3, 9, 6, 10, 1, 2, 11
 7, 4, 8, 3, 9, 6, 10, 1, 2, 11
 ```
+
+
+Can we do better than O(n^2)
+
+MergeSort
+- break the data in half
+  - sort them
+    - combine the halves
+- this is recursive
+
+O(n log n)
+
+- the drawback to this sort is that it uses a ton of space
+
+- The compareTO method
